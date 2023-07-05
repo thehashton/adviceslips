@@ -1,7 +1,5 @@
-# Bismuth
-Getting down to Bismuth with React, Vite & Typescript. Vite gives us Hot Module Reloading (HMR) so we can work with React & TypeScript in realtime.
-
-Made for [Curious Byte](https://www.youtube.com/@CuriousByte) but is ideal for anybody wanting a good starter project with all the basics.
+# Advice Slip App
+An Advice Slip App tutorial made for [Curious Byte](https://www.youtube.com/@CuriousByte).
 
 ### Getting started
 npm
