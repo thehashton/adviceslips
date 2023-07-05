@@ -9,7 +9,7 @@ html, body {
   background-image: linear-gradient(to right, #434343 0%, black 100%);
 }
 
-.bismuth {
+.title {
   font-size: 72px;
   background: -webkit-linear-gradient(#00e1ff, #cc5eff);
   -webkit-background-clip: text;
