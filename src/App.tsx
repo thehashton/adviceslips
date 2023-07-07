@@ -86,7 +86,12 @@ function App() {
             ) : (
                 <div style={{maxWidth: '40rem'}}>
                     <p style={{fontSize: '30px', fontStyle: 'italic'}}>"{slip}"</p>
-                    <button onClick={fetchHandler}>Refresh</button>
+                    <button
+                        onClick={fetchHandler}
+                        title={'Refresh the advice'}
+                        type={'button'}>
+                        Refresh
+                    </button>
                 </div>
             )}
         </>
