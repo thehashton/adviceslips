@@ -10,7 +10,7 @@ export type TAdviceSlip = {
 }
 
 function App() {
-    const [data, setData] = useState<TAdviceSlip>(null);
+    const [data, setData] = useState<TAdviceSlip | null>(null);
     const [loading, setLoading] = useState<boolean>(true);
     const [error, setError] = useState<string | null>(null);
 
