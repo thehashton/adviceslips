@@ -76,7 +76,7 @@ function App() {
         <>
             <h1 style={{ fontStyle: 'italic' }}>
                 <span className={'title'} style={{ color: '#9551ff', fontStyle: 'normal' }}>
-                  Advice Slip App
+                  Life Advice App
                 </span>
             </h1>
             {loading ? (
